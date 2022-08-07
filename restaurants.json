@@ -3,70 +3,70 @@
         "id" : 1,
         "name" : "Chaska Family Restaurant",
         "foods" : "Pizza, Sandwich, Burger",
-        "image" : "https://firebasestorage.googleapis.com/v0/b/flutter-ecommerce-app-2ca39.appspot.com/o/restaurants%2Fpexels-adrien-olichon-3534750.jpg?alt=media&token=3059fd73-8fe3-4e6c-83e0-2b0ec795d05b",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/my-food-ordering-app-b057a.appspot.com/o/Restaurants%2F1%20(1).jpg?alt=media&token=6fd2e52b-5cd2-4860-94f1-951db8f9d3c9",
         "ratings" : 4.1
     },
     {
         "id" : 2,
         "name" : "Shobhaa Only Veg",
         "foods" : "North Indian, Chinese, Fast Food",
-        "image" : "https://firebasestorage.googleapis.com/v0/b/flutter-ecommerce-app-2ca39.appspot.com/o/restaurants%2Fpexels-asad-photo-maldives-1449773.jpg?alt=media&token=d9df18a2-d7c3-4eff-b047-6837c8903112",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/my-food-ordering-app-b057a.appspot.com/o/Restaurants%2F10%20(1).jpg?alt=media&token=ae43a544-803a-4203-a89a-20c964cdf761",
         "ratings" : 4.0
     },
     {
         "id" : 3,
         "name" : "La Pino'z Pizza",
         "foods" : "Pizza, Pasta, Fast Food, Italian",
-        "image" : "https://firebasestorage.googleapis.com/v0/b/flutter-ecommerce-app-2ca39.appspot.com/o/restaurants%2Fpexels-kaboompics-com-6267.jpg?alt=media&token=648b288d-88ea-4101-a7f2-e02b96e962ac",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/my-food-ordering-app-b057a.appspot.com/o/Restaurants%2F11%20(1).jpg?alt=media&token=93d00e55-1659-49e5-bd9c-6b7ebc56dc1c",
         "ratings" : 4.3
     },
     {
         "id" : 4,
         "name" : "Veg Sutra",
         "foods" : "North Indian",
-        "image" : "https://firebasestorage.googleapis.com/v0/b/flutter-ecommerce-app-2ca39.appspot.com/o/restaurants%2Fpexels-ksenia-chernaya-4450334.jpg?alt=media&token=621978b7-d1bf-41a7-9dab-517cb1fc6dd5",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/my-food-ordering-app-b057a.appspot.com/o/Restaurants%2F11%20(1).jpg?alt=media&token=93d00e55-1659-49e5-bd9c-6b7ebc56dc1c",
         "ratings" : 3.9
     },
     {
         "id" : 5,
         "name" : "Sbarro - New York Pizza",
         "foods" : "Pizza, Fast Food, Desserts",
-        "image" : "https://firebasestorage.googleapis.com/v0/b/flutter-ecommerce-app-2ca39.appspot.com/o/restaurants%2Fpexels-lawrence-suzara-1581554.jpg?alt=media&token=2d201ae1-163d-4c65-8038-2ec07303c70f",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/my-food-ordering-app-b057a.appspot.com/o/Restaurants%2F13%20(1).jpg?alt=media&token=45e64709-9c6d-4ac0-9c0d-207cdeb530c2",
         "ratings" : 3.7
     },
     {
         "id" : 6,
         "name" : "Belly Darbar",
         "foods" : "North Indian, Biryani",
-        "image" : "https://firebasestorage.googleapis.com/v0/b/flutter-ecommerce-app-2ca39.appspot.com/o/restaurants%2Fpexels-lisa-1126728.jpg?alt=media&token=c1011a90-32d7-483d-882c-7108d218c6ba",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/my-food-ordering-app-b057a.appspot.com/o/Restaurants%2F14%20(1).jpg?alt=media&token=aeabb494-e0e6-4cca-b2bb-c62a0a472f99",
         "ratings" : 3.8
     },
     {
         "id" : 7,
         "name" : "Hotel Bartania",
         "foods" : "North Indian, Chinese, Mughlai",
-        "image" : "https://firebasestorage.googleapis.com/v0/b/flutter-ecommerce-app-2ca39.appspot.com/o/restaurants%2Fpexels-lisa-1402407.jpg?alt=media&token=8dd1e004-230a-4ea4-bf3d-15518013076c",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/my-food-ordering-app-b057a.appspot.com/o/Restaurants%2F15%20(1).jpg?alt=media&token=08c3bd53-ff9f-4f53-81d2-824312f47e8e",
         "ratings" : 3.5
     },
     {
         "id" : 8,
         "name" : "Jumboking Indian Burger",
         "foods" : "Burger, Fast Food",
-        "image" : "https://firebasestorage.googleapis.com/v0/b/flutter-ecommerce-app-2ca39.appspot.com/o/restaurants%2Fpexels-monserrat-sold%C3%BA-1560657.jpg?alt=media&token=12bfe080-9e0a-41ab-85b0-1d01e4cad905",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/my-food-ordering-app-b057a.appspot.com/o/Restaurants%2F16%20(1).jpg?alt=media&token=a645bce4-0f98-4c78-888d-355572fd055e",
         "ratings" : 3.6
     },
     {
         "id" : 9,
         "name" : "Burger King",
         "foods" : "Burger, Fast Food, Street Food",
-        "image" : "https://firebasestorage.googleapis.com/v0/b/flutter-ecommerce-app-2ca39.appspot.com/o/restaurants%2Fpexels-naim-benjelloun-2290753.jpg?alt=media&token=1a909927-5951-4f88-b107-2f3e967592d5",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/my-food-ordering-app-b057a.appspot.com/o/Restaurants%2F17%20(1).jpg?alt=media&token=4e91e0cf-e4fd-4bf8-97d3-8b15a0520075",
         "ratings" : 4.6
     },
     {
         "id" : 10,
         "name" : "Nomad Pizza- Traveller Series",
         "foods" : "Pizza, Italian",
-        "image" : "https://firebasestorage.googleapis.com/v0/b/flutter-ecommerce-app-2ca39.appspot.com/o/restaurants%2Fpexels-nastyasensei-331107.jpg?alt=media&token=8207166f-9908-4c10-9761-605a35e5f588",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/my-food-ordering-app-b057a.appspot.com/o/Restaurants%2F18%20(1).jpg?alt=media&token=3dd45cbf-7689-4100-8056-e8402031b127",
         "ratings" : 4.1
     }
 ]
